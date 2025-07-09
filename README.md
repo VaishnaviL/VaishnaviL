@@ -1,12 +1,10 @@
 <h1 align="center">Hey, I'm Vaishnavi Lande 👋</h1>
-<h3 align="center">Data Scientist | Data Engineer | Data Analyst </h3>
-<h6 align="center"> I am a passionate Data Engineer and Data Analyst with a strong foundation in cloud computing and data processing solutions. Over the past few years, I have honed my skills in building, optimizing, and maintaining ETL pipelines, leveraging the power of Python (pandas, Numpy), SQL, Apache Spark(PySpark, Spark SQL), and various AWS services. My expertise also includes working with data warehousing solutions like Snowflake 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=5000&center=true&width=735&lines=Data+Scientist+%7C+Data+Engineer+%7C+Python+Developer;" alt="Typing SVG" />
+  
+</p><h6 align="center"> I am a passionate Data Engineer and Data Analyst with a strong foundation in cloud computing and data processing solutions. I enjoy solving complex data problems and turning raw data into actionable insights that drive business decisions. Over the past few years, I have honed my skills in building, optimizing, and maintaining ETL pipelines, leveraging the power of Python (pandas, Numpy), SQL, Apache Spark(PySpark, Spark SQL), and various AWS services.I am currently expanding my knowledge in advanced cloud services and distributed computing, learning how to architect more efficient and scalable data systems
 </h6>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Data+Scientist;Data+%7C+SpringBoot+%7C+Python;Cloud+%7C+Docker+%7C+DevOps+Learner;Chess+%7C+Football+Lover" alt="Typing SVG" />
-</p>
 
 <div align="center">
   <a href="https://media.licdn.com/dms/document/media/v2/D4D2DAQGYLmPPpnntnA/profile-treasury-document-pdf-analyzed/B4DZflAqw.G8Ak-/0/1751893848722?e=1752710400&v=beta&t=9PSbn8pBm7i1ggjOTA7ex47dwzopfRkyw_Dm-wU9sOg" target="_blank">
@@ -15,19 +13,6 @@
 </div>
 
 
----
-
-### 👨‍💻 About Me
-
-- 🔨 I’m currently working on a Billing Support Automation Framework & AI-Powered Change Impact Analyzer
-
-- 🌱 Currently exploring Generative AI, Power Platform (Power Apps, Power Automate), Azure OpenAI, and DevOps
-
-- 📫 Reach me at: Portfolio Website <!-- (replace with actual link if you have one) -->
-
-- 🎯 Fun fact: *I love solving real-world problems with AI and automation — and yes, I enjoy debugging too :) *
-
-  
 ---
 
 ### 🌐 Connect With Me
