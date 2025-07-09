@@ -30,7 +30,7 @@
 
 #### Big Data Processing
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![Py Spark](https://img.shields.io/badge/Py_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![Py Spark](https://img.shields.io/badge/PySpark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 #### Data Warehousing
@@ -73,38 +73,3 @@
 ![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F9AB00?style=for-the-badge&logo=jupyter&color=525252)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshal662&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal662&theme=gruvbox&layout=compact&hide_border=false" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Harshal662&theme=gruvbox&hide_border=false" />
-</p>
-
----
-
-### 📌 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Harshal662&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-### ✍️ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshal662&label=Profile%20views&color=0e75b6&style=flat" alt="Harshal662" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=abakharshal@gmail.com;+91 7028090495;Harshal+Abak✌️👨‍💻" alt="Typing SVG" />
-</p>
