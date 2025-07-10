@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Resume_Download-green?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
   </a>
 </p>
-</p><h6 align="center"> I am a passionate Scientist with a strong foundation in Generative AI and data processing solutions. I enjoy solving complex data problems and turning raw data into actionable insights that drive business decisions. Over the past few years, I have honed my skills in building, optimizing, and maintaining ETL pipelines, leveraging the power of Python (pandas, Numpy), SQL, Apache Spark(PySpark, Spark SQL), and various AWS services.I am currently expanding my knowledge in advanced cloud services and distributed computing, learning how to architect more efficient and scalable data systems
+</p><h6 align="center"> I am a passionate Data Scientist with a strong foundation in Generative AI and data processing solutions. I enjoy solving complex data problems and turning raw data into actionable insights that drive business decisions. Over the past few years, I have honed my skills in building, optimizing, and maintaining ETL pipelines, leveraging the power of Python (pandas, Numpy), SQL, Apache Spark(PySpark, Spark SQL), and various AWS services.I am currently expanding my knowledge in advanced cloud services and distributed computing, learning how to architect more efficient and scalable data systems
 </h6>
 
 ---
