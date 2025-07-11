@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=5000&center=true&width=705&lines=Data+Scientist+%7C+Data+Engineer+%7C+Python+Developer;" alt="Typing SVG" />
 
 <p align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/vaishnavi-lande/overlay/1752218061705/single-media-viewer/?profileId=ACoAADRcIrIBm0-PeI7Zf1zdy7hECRsxWKcXvUk" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a> 
   <a href="vaishnaviglande30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vaishnavi-lande/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="" target="_blank">
